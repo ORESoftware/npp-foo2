@@ -3,12 +3,12 @@
   "bin": {
     "yolo3": "index.js"
   },
-  "version": "1.1.0-beta.12",
+  "version": "1.1.0-beta.13",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@oresoftware/baz3": "1.1.0-beta.12",
-    "@oresoftware/bar1": "1.1.0-beta.12",
+    "@oresoftware/baz3": "1.1.0-beta.13",
+    "@oresoftware/bar1": "1.1.0-beta.13",
     "lodash": "latest"
   }
 }
